@@ -15,7 +15,7 @@ public:
 
   // Create window and default shader program
   OpenGLWrapper(  int width = 400 
-                , int height = 200 
+                , int height = 400 
                 , const char * name = "Remote OpenGL"
                 , const std::string vertexShader = "/simple.vs.glsl"
                 , const std::string fragmentShader = "/simple.fs.glsl" );
