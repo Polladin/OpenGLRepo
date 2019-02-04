@@ -4,4 +4,5 @@ To configure set in configure.bat your compiler and run:
 template_1 - Draw single point.
 template_2 - Circle.
 template_3 - Circle with texture.
-template_4 - Simple Draw Objects.
+template_4 - Simple class Draw Objects.
+template_5 - Fonts
